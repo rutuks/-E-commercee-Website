@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2026-07-20 11:00:32 --> Could not find the language line "show_menu"
+ERROR - 2026-07-20 11:00:32 --> Could not find the language line "hide_menu"
+ERROR - 2026-07-20 11:00:47 --> Could not find the language line "show_menu"
+ERROR - 2026-07-20 11:00:47 --> Could not find the language line "hide_menu"
+ERROR - 2026-07-20 11:00:47 --> Could not find the language line "show_menu"
+ERROR - 2026-07-20 11:00:47 --> Could not find the language line "hide_menu"
+ERROR - 2026-07-20 11:00:55 --> Could not find the language line "show_menu"
+ERROR - 2026-07-20 11:00:55 --> Could not find the language line "hide_menu"
+ERROR - 2026-07-20 11:00:59 --> Could not find the language line "show_menu"
+ERROR - 2026-07-20 11:00:59 --> Could not find the language line "hide_menu"
+ERROR - 2026-07-20 11:01:01 --> Could not find the language line "show_menu"
+ERROR - 2026-07-20 11:01:01 --> Could not find the language line "hide_menu"
+ERROR - 2026-07-20 11:01:04 --> Could not find the language line "show_menu"
+ERROR - 2026-07-20 11:01:04 --> Could not find the language line "hide_menu"
