@@ -1,28 +1,13 @@
 {
-  "name": "css-gradient-generator",
-  "title": "CSS Gradient Generator",
-  "description": "CSS gradient generator with the best browser support. Three different layouts to meet Your requirement (from simple linear to complex radial gradients).",
-  "author": {
-    "name": "Virtuosoft",
-    "url": "https://github.com/Virtuosoft"
-  },
-  "contributors": [
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Virtuosoft/css-gradient-generator.git"
-  },
-  "homepage": "http://www.virtuosoft.eu/tools/css-gradient-generator/",
-  "version": "1.0.0",
-  "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-cli": "~0.1.13",
-    "grunt-contrib-jshint": "~0.8.0",
-    "grunt-contrib-concat": "~0.3.0",
-    "grunt-contrib-uglify": "~0.3.2",
-    "grunt-contrib-cssmin": "~0.9.0"
-  },
-  "scripts": {
-    "test": "grunt travis --verbose"
-  }
+	"name": "elfinder",
+	"version": "2.1.38",
+	"description": "Open-source file manager for web, written in JavaScript using jQuery and jQuery UI.",
+	"author": "Studio-42 (https://github.com/Studio-42/elFinder)",
+	"license": "3-clauses BSD",
+	"bugs": "https://github.com/Studio-42/elFinder/issues",
+	"homepage": "http://elfinder.org/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Studio-42/elFinder.git"
+	}
 }
